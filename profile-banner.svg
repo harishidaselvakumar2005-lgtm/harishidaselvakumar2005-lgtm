@@ -123,7 +123,7 @@
 <line x1="40" y1="1424" x2="860" y2="1424" stroke="#1e2733" stroke-width="1"/>
 <text x="70" y="1458" font-family="Consolas, 'JetBrains Mono', 'SF Mono', Menlo, Monaco, monospace" font-size="13.5" font-weight="400"><tspan fill="#5ce1c9">harishida@dev</tspan><tspan fill="#5c6b7a">:~$ whoami --stats</tspan></text>
 <rect x="70" y="1478" width="179.5" height="66" rx="8" fill="#0d1219" stroke="#1e2733" stroke-width="1"/>
-<text x="86" y="1508" font-family="Consolas, 'JetBrains Mono', 'SF Mono', Menlo, Monaco, monospace" font-size="22" font-weight="700" fill="#5ce1c9" text-anchor="start">8.03</text>
+<text x="86" y="1508" font-family="Consolas, 'JetBrains Mono', 'SF Mono', Menlo, Monaco, monospace" font-size="22" font-weight="700" fill="#5ce1c9" text-anchor="start">7.99</text>
 <text x="86" y="1528" font-family="Consolas, 'JetBrains Mono', 'SF Mono', Menlo, Monaco, monospace" font-size="10.5" font-weight="400" fill="#5c6b7a" text-anchor="start" letter-spacing="0.3">CGPA · 5 SEM</text>
 <rect x="263.5" y="1478" width="179.5" height="66" rx="8" fill="#0d1219" stroke="#1e2733" stroke-width="1"/>
 <text x="279.5" y="1508" font-family="Consolas, 'JetBrains Mono', 'SF Mono', Menlo, Monaco, monospace" font-size="22" font-weight="700" fill="#ffcb6b" text-anchor="start">2027</text>
